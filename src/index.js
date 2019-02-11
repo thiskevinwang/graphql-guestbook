@@ -22,6 +22,19 @@ const resolvers = {
       };
       links.push(link);
       return link;
+    },
+    updateLink: (parent, args) => {
+      const link = links[args.id];
+      link.description = args.description;
+      link.url = args.url;
+      link.id = link.id;
+      links[args.id] = link;
+      return link;
+    },
+    deleteLink: (parent, args) => {
+      const link = links[args.id];
+      links.pop(link);
+      return link;
     }
   }
 };
