@@ -1,8 +1,10 @@
-# hackernews-node
+# thekevinwang.com-graphql
 
-This is a project using [GraphQL](https://graphql.org/) & [Prisma](https://www.prisma.io/) to build a GraphQL API. It follows the [graphql-node](https://www.howtographql.com/graphql-js/0-introduction/) tutorial by [HOW TO GRAPHQL](https://www.howtographql.com/).
+This is the source code for the [GraphQL](https://graphql.org/) API that my [website](https://www.thekevinwang.com) communicates with. It uses [Prisma](https://www.prisma.io/) for the database layer.
 
 ### Links
+It is deployed to Heroku
+
 PRISMA service link
 ```
 https://app.prisma.io/kevin-wang-6c14e2/services/prisma-us1/hackernews-node/dev/databrowser/Link
