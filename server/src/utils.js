@@ -5,6 +5,8 @@ function getUserId(context) {
   const Authorization = context.request.get('Authorization')
   if (Authorization) {
     const token = Authorization.replace('Bearer ', '')
+
+    // jwt.verify(token, secretOrPublicKey, [options, callback])
     const { userId } = jwt.verify(token, APP_SECRET)
     return userId
   }
