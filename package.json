@@ -8,5 +8,8 @@
     "graphql-yoga": "^1.17.4",
     "jsonwebtoken": "^8.4.0",
     "prisma-client-lib": "^1.26.4"
+  },
+  "scripts": {
+    "start": "cd server && npm start"
   }
 }
