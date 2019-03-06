@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/1e3055ea868ea468da17/maintainability)](https://codeclimate.com/github/thiskevinwang/thekevinwang.com-graphql/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/1e3055ea868ea468da17/test_coverage)](https://codeclimate.com/github/thiskevinwang/thekevinwang.com-graphql/test_coverage)
+
 # thekevinwang.com-graphql
 
 This is the source code for the [GraphQL](https://graphql.org/) API that my [website](https://www.thekevinwang.com) communicates with. It uses [Prisma](https://www.prisma.io/) for the database layer.
