@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/1e3055ea868ea468da17/maintainability)](https://codeclimate.com/github/thiskevinwang/thekevinwang.com-graphql/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/1e3055ea868ea468da17/test_coverage)](https://codeclimate.com/github/thiskevinwang/thekevinwang.com-graphql/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/703cef96260767c94056/maintainability)](https://codeclimate.com/github/thiskevinwang/graphql-guestbook/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/703cef96260767c94056/test_coverage)](https://codeclimate.com/github/thiskevinwang/graphql-guestbook/test_coverage)
 
 # graphql-guestbook
 
