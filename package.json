@@ -8,10 +8,13 @@
     "bcryptjs": "^2.4.3",
     "graphql-yoga": "^1.17.4",
     "jsonwebtoken": "^8.5.1",
-    "prisma-client-lib": "^1.30.2"
+    "nodemon": "^1.19.1",
+    "prisma-client-lib": "^1.30.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
   },
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon index.ts",
     "prisma": "prisma"
   }
 }
